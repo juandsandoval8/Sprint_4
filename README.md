@@ -1,1 +1,7 @@
-# Solucion-semana-4y5-backend
+# Solucion Sprint_4
+
+ Para correr el codigo:
+# Usar npm install
+ 
+ Siguiente paso :
+# Usar npm run test  
